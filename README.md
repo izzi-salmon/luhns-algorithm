@@ -1,5 +1,5 @@
-# luhns-algorithm
-Luhn's algorith checks if a number is a valid credit card.
+# Luhn's Algorithm
+Luhn's algorithm is a way of checking if a number is a valid credit card.
 
 [ 4 ][ 1 ][ 3 ][ 7 ][ 8 ][ 9 ][ 4 ][ 7 ][ 1 ][ 1 ][ 7 ][ 5 ][ 5 ][ 9 ][ 0 ][ 4 ]
 
